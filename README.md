@@ -3,7 +3,7 @@
 
 This study explores scene change detection in 20th-century US-American romance fiction using manual annotations and automated methods. Manually annotated novels build the training data for fine-tuning an English BERT USE model, yielding promising preliminary results for automated text segmentation in computational literary studies.
 
-This repository accompanies the paper contributions to NAACL-SIGHUM 2025, Albuquerque, NM, and to ADHO annual conference DH2025, Lisbon.
+### This repository accompanies the paper contributions to NAACL-SIGHUM 2025, Albuquerque, NM, and to ADHO annual conference DH2025, Lisbon.
 
 Svenja Guhr, Huijun Mao, Fengyi Lin, Alexander Sherman, Mark Algee-Hewitt (2025): Scene Change Detection in 20th-Century US-American Romance Fiction. Book of Abstracts of the DH2025, Annual Conference of ADHO, 14.-18.07.2025, Lisbon. 
 
