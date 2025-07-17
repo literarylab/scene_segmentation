@@ -20,5 +20,3 @@ Since we are working with copyrighted texts, the annotated novels cannot be made
 Please find the referenced guidelines for the manual annotation process in Gius, E., Sökefeld, C., Dümpelmann, L., Kaufmann, L., Schreiber, A., Guhr, S., Wiedmer, N., & Jannidis, F. (2021). Guidelines for Detection of Scenes (1.0). Zenodo. https://doi.org/10.5281/zenodo.4457176.
 
 The paper describes work in progress and does not provide a final solution for reliable scene segmentation, but rather proposes new approaches to the task and obtains promising results for approximating scene change positions in six-sentence segments, contributing a new perspective to the discourse on meaningful literary text segmentation for CLS.
-
-https://docs.google.com/presentation/d/1Xt4kn0DNyqE7taTeB-amByDYMTjCEEbQ/edit?usp=sharing&ouid=102354118766956405180&rtpof=true&sd=true 
