@@ -1,7 +1,10 @@
 # Rethinking Scene Segmentation. Advancing Automated Detection of Scene Changes in Literary Texts
 ## Manual and automated scene change annotation of US American popular fiction
 
-This study explores scene change detection in 20th-century US-American romance fiction using manual annotations and automated methods. Manually annotated novels build the training data for fine-tuning an English BERT USE model, yielding promising preliminary results for automated text segmentation in computational literary studies.
+This study explores scene change detection in 20th-century US-American romance fiction using manual annotations and automated methods. Manually annotated novels build the training data for fine-tuning an English BERT USE model, yielding promising preliminary results for automated text segmentation in computational literary studies. 
+
+<img width="968" height="378" alt="Screenshot 2025-07-17 at 10 33 29" src="https://github.com/user-attachments/assets/564fba4d-d797-4096-8765-7fd2eb35fb5f" />
+
 
 ### This repository accompanies the paper contributions to NAACL-SIGHUM 2025, Albuquerque, NM, and to ADHO annual conference DH2025, Lisbon.
 
