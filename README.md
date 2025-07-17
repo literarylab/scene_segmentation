@@ -14,6 +14,6 @@ Svenja Guhr, Huijun Mao, and Fengyi Lin (2025). Rethinking Scene Segmentation. A
 It contains the preprocessing Python scripts and the model used to automate the scene segmentation of our US romance novel corpus.
 Since we are working with copyrighted texts, the annotated novels cannot be made publicly available.
 
-Please find the referenced guidelines for the manual annotation process in Gius, E., Sökefeld, C., Dümpelmann, L., Kaufmann, L., Schreiber, A., Guhr, S., Wiedmer, N., & Jannidis, F. (2021). Guidelines for Detection of Scenes (1.0). Zenodo. https://doi.org/10.5281/zenodo.4457176
+Please find the referenced guidelines for the manual annotation process in Gius, E., Sökefeld, C., Dümpelmann, L., Kaufmann, L., Schreiber, A., Guhr, S., Wiedmer, N., & Jannidis, F. (2021). Guidelines for Detection of Scenes (1.0). Zenodo. https://doi.org/10.5281/zenodo.4457176.
 
 The paper describes work in progress and does not provide a final solution for reliable scene segmentation, but rather proposes new approaches to the task and obtains promising results for approximating scene change positions in six-sentence segments, contributing a new perspective to the discourse on meaningful literary text segmentation for CLS.
